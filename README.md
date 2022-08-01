@@ -1,4 +1,4 @@
-# Staring
+# Starting
 
 ```
 docker compose up -d
