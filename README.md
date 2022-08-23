@@ -12,6 +12,8 @@ docker exec minecraft mc-send-to-console # command goes here
 
 # Backing up
 
+Execute from root of repo:
+
 ```
-cp data backup-YY-MM-DD -r
+./scripts/backup.sh
 ```
